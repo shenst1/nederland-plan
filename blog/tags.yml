@@ -1,0 +1,9 @@
+planning:
+  label: Planning Documents
+  permalink: /planning
+  description: Posts about planning document approaches and methodologies
+
+demonstration:
+  label: Demonstration
+  permalink: /demonstration
+  description: Demonstration projects and examples
