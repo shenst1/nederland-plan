@@ -24,7 +24,7 @@ Comprehensive plans are living documents that guide communities for years. They 
 This demonstration uses [Docusaurus](https://docusaurus.io/), a modern static site generator, to transform traditional planning documents into a responsive, searchable website. Key features include:
 
 - **Structured Navigation**: Organized sidebar makes it easy to navigate between plan sections
-- **Full-Text Search**: Powered by Algolia, allowing users to quickly find relevant content
+- **Full-Text Search**: Powered by Algolia DocSearch, allowing users to quickly find relevant content (Note: Search functionality requires the site to be deployed to a public website. For a live example of Algolia DocSearch in action, visit the [Algolia DocSearch website](https://docsearch.algolia.com/))
 - **Mobile-Friendly**: Responsive design ensures the plan is accessible on any device
 - **Version Control**: Built on markdown files that can be tracked, reviewed, and updated collaboratively
 - **Fast Performance**: Static site generation ensures fast load times
@@ -32,6 +32,8 @@ This demonstration uses [Docusaurus](https://docusaurus.io/), a modern static si
 ## About This Demonstration
 
 This site presents the Town of Nederland Comprehensive Plan (2024 Update) as an example of how planning documents can be transformed into accessible, web-based resources. The content structure, navigation, and search capabilities demonstrate how communities can make their planning documents more useful and accessible to residents.
+
+**Note on Search Functionality**: The search feature shown in this demonstration requires the site to be deployed to a public website domain to function properly. Once deployed, Algolia DocSearch can crawl and index the site, enabling fast, full-text search across all content. To see Algolia DocSearch in action, you can visit their [website](https://docsearch.algolia.com/) which showcases the search functionality on various documentation sites.
 
 ## Contact
 
